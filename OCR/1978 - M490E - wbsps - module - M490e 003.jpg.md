@@ -1,5 +1,5 @@
 # 1978 - M490E - wbsps - module - M490e 003.jpg
-Wiki page: [M490E](../../../PAGES/M490E.md)
+Wiki page: [M490E](../../../../PAGES/M490E.md)
 
 
 - **Year:** 1978 (module estimate (family))
@@ -23,7 +23,7 @@ Wiki page: [M490E](../../../PAGES/M490E.md)
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M490E/1978 - M490E - wbsps - module - M490e 003.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M490E/PHOTOS/1978 - M490E - wbsps - module - M490e 003.jpg",
  "sha256": "bb1ac7625fabb0a241dc8cc7dc05c4284a74dbf91a9162c1d5cea2eafe67b355",
  "kind": "module",
  "models": [
