@@ -22,7 +22,7 @@ Wiki page: [M490E](../../../../PAGES/M490E.md)
 - **Words (OCR):** 36 in 33 lines: MISOE · cninne · control · Providt · chenae · channu · PROG RAA · riaht · SLIDE · Control · 5na · etununtor
 - **Title block:** (366, 24)–(432, 40) mm: WBS WARD-BeCK byateN
 
-Every curve, box, word and wire group: [1978 - M490E - 90-04-013 - THE PROGRAM CHANNE TAICCBS THE BUILT-IN LAY (traced).json](../MECHANICAL/1978%20-%20M490E%20-%2090-04-013%20-%20THE%20PROGRAM%20CHANNE%20TAICCBS%20THE%20BUILT-IN%20LAY%20(traced).json) (the CAD file: `1978 - M490E - 90-04-013 - THE PROGRAM CHANNE TAICCBS THE BUILT-IN LAY (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490E - 90-04-013 - THE PROGRAM CHANNE TAICCBS THE BUILT-IN LAY (traced).json](../MECHANICAL/1978%20-%20M490E%20-%2090-04-013%20-%20THE%20PROGRAM%20CHANNE%20TAICCBS%20THE%20BUILT-IN%20LAY%20%28traced%29.json) (the CAD file: `1978 - M490E - 90-04-013 - THE PROGRAM CHANNE TAICCBS THE BUILT-IN LAY (traced).dxf`).
 
 ## Full text
 

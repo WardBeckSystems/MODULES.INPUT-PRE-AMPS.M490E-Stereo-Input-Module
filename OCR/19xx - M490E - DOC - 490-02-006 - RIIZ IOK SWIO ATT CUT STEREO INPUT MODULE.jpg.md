@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (357, 20)–(432, 35) mm: WBS · WAAD-BeCk systeMS · M490E
 - **Wiring (first pass):** 225 connected wire groups from 1,826 runs, 6 dotted junctions; labelled ends: 474 mm → 212; 422 mm → 2k2, Rzo; 360 mm → Re, Re4, 4Jlio, 10/25; 228 mm → Rizy, 212, 12/25, iok; 226 mm → R99, 4uzs], Ruie, CriS
 
-Every curve, box, word and wire group: [19xx - M490E - DOC - 490-02-006 - RIIZ IOK SWIO ATT CUT STEREO INPUT MODULE (traced).json](../SCHEMATICS/19xx%20-%20M490E%20-%20DOC%20-%20490-02-006%20-%20RIIZ%20IOK%20SWIO%20ATT%20CUT%20STEREO%20INPUT%20MODULE%20(traced).json) (the CAD file: `19xx - M490E - DOC - 490-02-006 - RIIZ IOK SWIO ATT CUT STEREO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490E - DOC - 490-02-006 - RIIZ IOK SWIO ATT CUT STEREO INPUT MODULE (traced).json](../SCHEMATICS/19xx%20-%20M490E%20-%20DOC%20-%20490-02-006%20-%20RIIZ%20IOK%20SWIO%20ATT%20CUT%20STEREO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `19xx - M490E - DOC - 490-02-006 - RIIZ IOK SWIO ATT CUT STEREO INPUT MODULE (traced).dxf`).
 
 ## Full text
 
