@@ -1,5 +1,5 @@
 # 1978 - M490E - wbsps - module - M490e 001.jpg
-Wiki page: [M490E](../../../../PAGES/M490E.md)
+Wiki page: [M490E](../)
 
 
 - **Year:** 1978 (module estimate (family))

@@ -1,5 +1,5 @@
 # 1978 - M490E - 90-04-013 - THE PROGRAM CHANNE TAICCBS THE BUILT-IN LAY.jpg
-Wiki page: [M490E](../../../../PAGES/M490E.md)
+Wiki page: [M490E](../)
 
 
 - **Year:** 1978 (module estimate (family))

@@ -1,6 +1,6 @@
 # M490E Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M490E, 1978|11. Wiki page: [M490E on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490E.html)
+Ward-Beck Systems M490E, 1978|11. Wiki page: [M490E on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490E-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
